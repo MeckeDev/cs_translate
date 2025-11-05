@@ -377,4 +377,3 @@ If you publish a modified version, please respect the project’s license.
 See the `LICENSE` file in the repository for full license details.
 
 ```
-::contentReference[oaicite:0]{index=0}
