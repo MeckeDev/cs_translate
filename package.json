@@ -1,10 +1,10 @@
 {
-  "name": "cs-translate",
-  "version": "1.0.0",
-  "description": "CS2 console.log auto translator for chat messages (console-only).",
+  "name": "cs_translate",
+  "version": "1.0.1",
+  "description": "CS2 console.log auto translator for chat messages (console-only, Linux + Windows).",
   "type": "module",
   "bin": {
-    "cs-translate": "bin/cs.translate.js"
+    "cs_translate": "bin/cs.translate.js"
   },
   "dependencies": {
     "chalk": "^5.3.0",
