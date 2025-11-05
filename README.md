@@ -1,3 +1,6 @@
+<img width="1262" height="478" alt="grafik" src="https://github.com/user-attachments/assets/9babdeeb-8582-4a52-91d1-dba7ad9eba39" />
+
+
 # cs_translate
 
 `cs_translate` is a small, cross-platform CLI tool that watches your Counter-Strike 2 `console.log` in real time and automatically translates in-game chat messages to a target language (default: English), printing the results in your terminal.
